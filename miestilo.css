@@ -1,0 +1,18 @@
+.card-img-overlay {
+    padding-right: 8.5rem !important;
+    padding-top: 20% !important;
+    padding-left: 48% !important;
+    height: max-content;
+    color: white;
+    text-align: end;
+}
+
+.card-text1 {
+    font-size: 1rem;
+    padding-top: 1.5rem;
+    text-align: end;
+}
+
+.card-text2 {
+    text-align: justify;
+}
